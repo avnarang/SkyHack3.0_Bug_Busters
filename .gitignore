@@ -1,0 +1,7 @@
+# exclude raw data
+SkyHack/data/
+
+# optional but recommended
+SkyHack/venv/
+SkyHack/.ipynb_checkpoints/
+.DS_Store

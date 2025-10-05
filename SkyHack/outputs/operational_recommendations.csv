@@ -1,0 +1,7 @@
+Category,Priority,Affected_Flights,Action,Destinations,Implementation,Current_Avg,Hours,Alert_Threshold
+Staffing,High,2536,Deploy additional ground crew for high-difficulty destinations,"BRU, GRU, HNL, HND, FRA",,,,
+Baggage,High,1611,Pre-position transfer bag handlers,,Deploy 30 min before arrival,,,
+Schedule,Medium,1965,Add 15-minute buffer to tight turnarounds,,,-14 min,,
+Time-Based,Medium,694,Increase staffing during peak hours,,,,"[4, 17, 16]",
+Special Needs,Medium,2006,Pre-assign family boarding coordinators,,Priority boarding support,,,
+Monitoring,High,2025,Real-time difficulty monitoring dashboard,,,,,>2.14
